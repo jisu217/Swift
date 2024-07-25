@@ -1,6 +1,6 @@
 import UIKit
 
-// 키 : 값
+// 키: 값
 var myFriends = ["bestFriend" : "친구1",
                  "highschool" : "친구2"
                 ]
