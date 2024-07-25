@@ -10,7 +10,7 @@ class Friend {
         print("하이")
     }
     
-    static func sayhoho() { // final class 의미 상속 X
+    static func sayhoho() { // final class 의미, 상속 X
         print("바이")
     }
 }
